@@ -1,6 +1,6 @@
 # Hi 👋, I'm Tarek Shalaby
 
-### Startup-Focused Software Engineer Building AI-Powered Products
+### Software Engineer Building AI-Powered Products
 
 - 🔭 I'm currently working on **Upgrading and developing the MoneyNotes app, a voice-first AI finance app.**
 
