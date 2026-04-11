@@ -1,34 +1,129 @@
-# Hi 👋, I'm Tarek Shalaby
+<div align="center">
 
-### Software Engineer Building AI-Powered Products
+# Tarek Shalaby
 
-- 🔭 I'm currently working on **Upgrading and developing the MoneyNotes app, a voice-first AI finance app.**
+### Backend & AI Engineer · Co-Founder · Builder
 
-- 🌱 I'm currently learning **Scalable backend architectures, event-driven systems, and AI infrastructure**
+*I turn ideas into shipped products — fast.*
 
-- 👯 I'm looking to collaborate on **AI-powered applications, developer tools, and scalable backend systems**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/t-s-125bt/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/tarek1488)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tareksalaby2015@gmail.com)
 
-- 🤝 I'm looking for help with **Scaling mobile startups and advanced system design patterns**
+</div>
 
-- 💬 Ask me about **AI systems, backend architecture, and startup product development**
+---
 
-- 📫 How to reach me **tareksalaby2015@gmail.com**
+## About Me
 
-- ⚡ Fun fact **I turn ideas into shipped products faster than I overthink them.**
+Backend-focused engineer who builds systems that don't just work — they ship, scale, and solve real problems. I co-founded [**MoneyNotes+**](https://play.google.com/store/apps/details?id=com.fintechcopilot.moneynotes&pcampaignid=web_share), a voice-first personal finance app from zero to thousands of users, owning every layer: architecture, AI-powered features, cloud deployment, and customer engagement. I don't hand things off; I see them through.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/tarek1488" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="tarek1488" height="30" width="40" />
-</a>
+My stack lives at the intersection of **FastAPI · PostgreSQL · LLMs · vector databases** — I'm comfortable owning everything from system design to deployment to user engagement.
 
-<a href="https://www.linkedin.com/in/t-s-125bt/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tarek Shalaby LinkedIn" height="30" width="40" />
-</a>
-</p>
+- 🎓 **BSc Communications & Information Engineering** — Zewail City
+- 🏗️ Currently building: voice-first AI finance features for MoneyNotes+
+- 🌱 Exploring: scalable backend architectures, event-driven systems, AI infrastructure
+- 🤝 Open to: AI-powered applications, developer tooling, scalable backend projects
+- 📍 Giza, Egypt · 🌐 Available remotely
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarek1488&" alt="tarek1488" /></p>
+## Tech Stack
 
+**Languages**
+
+![Python](https://skillicons.dev/icons?i=py)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![C++](https://skillicons.dev/icons?i=cpp)
+
+**Backend & Databases**
+
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![Flask](https://skillicons.dev/icons?i=flask)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Supabase](https://skillicons.dev/icons?i=supabase)
+
+**AI & ML**
+
+![Python](https://skillicons.dev/icons?i=py)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logoColor=white)
+![Cohere](https://img.shields.io/badge/Cohere-39594D?style=flat&logoColor=white)
+
+> RAG Pipelines · LangChain / LangGraph · Qdrant · OpenAI / Groq / Cohere APIs
+
+**Mobile, Cloud & DevOps**
+
+![React Native](https://skillicons.dev/icons?i=react)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Docker](https://skillicons.dev/icons?i=docker)
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
+![Azure](https://skillicons.dev/icons?i=azure)
+
+---
+
+## Featured Projects
+
+### 💸 MoneyNotes+ *(Co-Founder & Full-Stack Developer)*
+> **React Native (Expo) · FastAPI · PostgreSQL · OpenAI · Groq · RevenueCat**
+
+Cross-platform personal finance app launched to **~2,500 users**. Features AI-powered voice transaction entry, bank SMS parsing, spending analytics, and subscription management. I owned the full lifecycle — architecture, development, deployment, and customer engagement.
+
+---
+
+### 🔍 Full RAG API
+> **Python · FastAPI · Cohere · Qdrant · MongoDB**
+
+Production-ready Retrieval-Augmented Generation pipeline following MVC architecture. Designed for plug-and-play extensibility across multiple vector databases and LLM providers. Built to handle real workloads.
+
+🔗 [View repo →](https://github.com/tarek1488/mini-rag)
+
+---
+
+### 🏛️ Arabic Legal RAG System *(Freelance — Law Institute Client)*
+> **AWS · Open WebUI · Arabic Embedding Models · Qdrant**
+
+End-to-end Arabic RAG system deployed on AWS, enabling legal staff to query internal documents in natural language. Benchmarked multiple Arabic embedding models for retrieval accuracy and extended Open WebUI to resolve compatibility issues with the selected model.
+
+---
+
+### 🔐 Face Verification System
+> **DeepFace · Qdrant · FastAPI · OpenCV · ESP32 · Firebase**
+
+Real-time face registration and authentication system with facial embeddings stored in Qdrant for fast vector search. Integrated with Firebase and an ESP32 microcontroller to trigger automatic door control on successful authentication.
+
+🔗 [View repo →](https://github.com/tarek1488/Facial-Authentication-System)
+
+---
+
+### 🌐 Social Media Platform
+> **Flask · Selenium · Azure · GitHub Actions**
+
+Family-focused social media platform with automated Selenium test suites and full CI/CD pipelines deployed on Microsoft Azure for continuous 24/7 operation.
+🔗 [View repo →](https://github.com/MohamedElsayed16/social-media-platform)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tarek1488&theme=default&hide_border=true)](https://github.com/tarek1488)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Build fast, ship real, iterate always."*
+
+</div>
