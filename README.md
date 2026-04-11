@@ -112,16 +112,6 @@ Family-focused social media platform with automated Selenium test suites and ful
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tarek1488&theme=default&hide_border=true)](https://github.com/tarek1488)
-
-</div>
-
----
-
 <div align="center">
 
 *"Build fast, ship real, iterate always."*
